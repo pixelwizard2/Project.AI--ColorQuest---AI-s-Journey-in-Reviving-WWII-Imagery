@@ -1,5 +1,5 @@
 # Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery
-이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구(GAN)  
+이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구(GAN)  <br> <br>
 
 ![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)
 
