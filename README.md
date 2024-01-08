@@ -10,7 +10,7 @@ _이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구
 
 ## Project Introduction (프로젝트 소개)
 
-The aim of this project was to restore color to black and white photographs using deep learning technology. Various model architectures such as **CNN, Deep CNN, Autoencoder, and U-Net** were explored, and the potential for image generation using **GAN (Generative Adversarial Networks)** was tested. <br>  <br>
+The aim of this project was to restore color to black and white photographs using deep learning technology. Various model architectures such as **CNN, Deep CNN, Autoencoder, and U-Net** were explored, and the potential for image generation using **GAN (Generative Adversarial Networks)** was tested. <br> 
 
 
 <pre>
