@@ -61,7 +61,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​<br> <br> <br>
 ## Project expected direction (프로젝트 예상 진행방향)
-<br>  
+<br>  <br>
 
 ![3  흑백 사진 데이터 모음](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/0b2381e7-8f1f-4f38-af3c-f3b888724664)
 <br>
