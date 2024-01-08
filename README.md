@@ -50,7 +50,6 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ## Technical Stack Details (기술 스택 세부사항)
 
-​
 
 **TensorFlow & Keras :** The primary deep learning libraries used to build and train models.
 
@@ -62,6 +61,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​<br> <br> <br>
 ## Project expected direction (프로젝트 예상 진행방향)
+
 
 **Dataset Scale and Necessity**  
 A substantial amount of image data is required for a black and white/color image restoration project. Estimates suggest that a minimum of over 100,000 images may be needed for effective training and model performance evaluation. High-performance computing resources are essential for processing such large datasets, which pose limitations when working on standard personal computers.
