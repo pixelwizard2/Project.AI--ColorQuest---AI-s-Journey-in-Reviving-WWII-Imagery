@@ -62,6 +62,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 ​<br> <br> <br>
 ## Project expected direction (프로젝트 예상 진행방향)
 
+![3  흑백 사진 데이터 모음](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/0b2381e7-8f1f-4f38-af3c-f3b888724664)
 
 - **Dataset Scale and Necessity**  
 A substantial amount of image data is required for a black and white/color image restoration project. Estimates suggest that a minimum of over 100,000 images may be needed for effective training and model performance evaluation. High-performance computing resources are essential for processing such large datasets, which pose limitations when working on standard personal computers.
@@ -75,7 +76,7 @@ Consequently, there is a need for tools capable of efficiently training on exten
 The project's goal is to improve the color restoration capability for complex real-life images. Focusing on capturing contours and color restoration, the project aims to explore new approaches by designing and applying the GAN architecture. Insights gained in this process are expected to significantly aid in future model performance improvements.
 <br>
 
-![3  흑백 사진 데이터 모음](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/0b2381e7-8f1f-4f38-af3c-f3b888724664)
+
 ​
 
 ​
