@@ -38,7 +38,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 - **U-Net :** Used in image segmentation tasks, it efficiently conveyed features through symmetric expansion and contraction paths.
 
-- **GAN :** Constructed a structure where a generator and a discriminator learn through competition, leading to the generation of new images.
+- **GAN :** Constructed a structure where a generator and a discriminator learn through competition, leading to the generation of new images. <br>
 
 ​![2  조합도](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1ace4bf5-b944-4c78-935a-da7fa10ba421)
 
