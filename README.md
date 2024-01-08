@@ -74,6 +74,7 @@ Consequently, there is a need for tools capable of efficiently training on exten
 - **Project Goal Setting**  
 The project's goal is to improve the color restoration capability for complex real-life images. Focusing on capturing contours and color restoration, the project aims to explore new approaches by designing and applying the GAN architecture. Insights gained in this process are expected to significantly aid in future model performance improvements.
 <br>
+
 ![3  흑백 사진 데이터 모음](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/0b2381e7-8f1f-4f38-af3c-f3b888724664)
 ​
 
