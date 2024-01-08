@@ -45,8 +45,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 <p align="center"><em><strong>Deep Learning Model's 'Network Structure Diagram' Used in This Project</strong></em></p>
 
-
-
+<br> <br> <br>
 
 
 ## Technical Stack Details (기술 스택 세부사항)
