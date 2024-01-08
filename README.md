@@ -29,15 +29,15 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ##  Utilized Model Architectures (사용된 모델 아키텍처)
 
-**Simple CNN:** A basic model for image classification tasks that used simple convolutional and pooling layers.
+- **Simple CNN:** A basic model for image classification tasks that used simple convolutional and pooling layers.
 
-**Deep CNN:** Implemented deeper convolutional layers to extract more complex image features.
+- **Deep CNN:** Implemented deeper convolutional layers to extract more complex image features.
 
-**Autoencoder:** Learned low-dimensional representations of images and reconstructed the images based on this learning.
+- **Autoencoder:** Learned low-dimensional representations of images and reconstructed the images based on this learning.
 
-**U-Net:** Used in image segmentation tasks, it efficiently conveyed features through symmetric expansion and contraction paths.
+- **U-Net:** Used in image segmentation tasks, it efficiently conveyed features through symmetric expansion and contraction paths.
 
-**GAN:** Constructed a structure where a generator and a discriminator learn through competition, leading to the generation of new images.
+- **GAN:** Constructed a structure where a generator and a discriminator learn through competition, leading to the generation of new images.
 
 ​
 
