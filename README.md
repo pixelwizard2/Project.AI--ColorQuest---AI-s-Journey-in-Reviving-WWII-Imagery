@@ -15,10 +15,10 @@ The aim of this project was to restore color to black and white photographs usin
 
 <pre>
 <strong>※ Development Period:</strong> 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)
-                      2024.01.07 ~ 2024.01.08 (20h)
+                       2024.01.07 ~ 2024.01.08 (20h)
 </pre>
 
-<br>  <br>  <br>
+<br>  <br>  
 
 
 ## Project Details (프로젝트 세부 주제)
