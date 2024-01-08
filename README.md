@@ -56,13 +56,13 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​
 
-TensorFlow & Keras: The primary deep learning libraries used to build and train models.
+**TensorFlow & Keras :** The primary deep learning libraries used to build and train models.
 
-Python: Utilized for data preprocessing, modeling, learning pipelines, and analyzing results.
+**Python :** Utilized for data preprocessing, modeling, learning pipelines, and analyzing results.
 
-Matplotlib & OpenCV: Libraries used for loading, transforming, and visualizing image data. Matplotlib was used to visualize results during the learning process, while OpenCV was applied in image preprocessing tasks.
+**Matplotlib & OpenCV :** Libraries used for loading, transforming, and visualizing image data. Matplotlib was used to visualize results during the learning process, while OpenCV was applied in image preprocessing tasks.
 
-Google Colab: Accelerated model training and experimentation in a cloud-based development environment using T4-GPU acceleration.
+**Google Colab :** Accelerated model training and experimentation in a cloud-based development environment using T4-GPU acceleration.
 
 ​
 
