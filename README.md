@@ -51,27 +51,27 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 ## Technical Stack Details (기술 스택 세부사항)
 
 
-**TensorFlow & Keras :** The primary deep learning libraries used to build and train models.
+- **TensorFlow & Keras :** The primary deep learning libraries used to build and train models.
 
-**Python :** Utilized for data preprocessing, modeling, learning pipelines, and analyzing results.
+- **Python :** Utilized for data preprocessing, modeling, learning pipelines, and analyzing results.
 
-**Matplotlib & OpenCV :** Libraries used for loading, transforming, and visualizing image data. Matplotlib was used to visualize results during the learning process, while OpenCV was applied in image preprocessing tasks.
+- **Matplotlib & OpenCV :** Libraries used for loading, transforming, and visualizing image data. Matplotlib was used to visualize results during the learning process, while OpenCV was applied in image preprocessing tasks.
 
-**Google Colab :** Accelerated model training and experimentation in a cloud-based development environment using T4-GPU acceleration.
+- **Google Colab :** Accelerated model training and experimentation in a cloud-based development environment using T4-GPU acceleration.
 
 ​<br> <br> <br>
 ## Project expected direction (프로젝트 예상 진행방향)
 
 
-**Dataset Scale and Necessity**  
+- **Dataset Scale and Necessity**  
 A substantial amount of image data is required for a black and white/color image restoration project. Estimates suggest that a minimum of over 100,000 images may be needed for effective training and model performance evaluation. High-performance computing resources are essential for processing such large datasets, which pose limitations when working on standard personal computers.
 <br> <br>
 
-**Resource and Tool Necessity**  
+- **Resource and Tool Necessity**  
 Consequently, there is a need for tools capable of efficiently training on extensive datasets that include complex real-life photos and simple geometric images. Utilizing cloud-based platforms or high-performance computing resources is necessary, and in such environments, more complex network architectures can be experimented with and optimized.
 <br> <br>
 
-**Project Goal Setting**  
+- **Project Goal Setting**  
 The project's goal is to improve the color restoration capability for complex real-life images. Focusing on capturing contours and color restoration, the project aims to explore new approaches by designing and applying the GAN architecture. Insights gained in this process are expected to significantly aid in future model performance improvements.
 
 ​
