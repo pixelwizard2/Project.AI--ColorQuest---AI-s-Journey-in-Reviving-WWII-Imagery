@@ -1,7 +1,13 @@
 # Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery
-이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구(GAN)  <br> <br>
+이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구(GAN) <br>
 
-![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223315845279">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a>
+</p>
+
+![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)  
 
 ## Project Focus: Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation
 
