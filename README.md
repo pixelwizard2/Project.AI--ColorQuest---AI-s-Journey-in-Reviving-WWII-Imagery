@@ -78,8 +78,9 @@ The project's goal is to improve the color restoration capability for complex re
 <br>
 
 
-​- **Project Goal Setting**  
-The project's goal is to improve the color restoration capability for complex real-life images. <font color="blue">**Focusing on capturing contours and color restoration**</font>, the project aims to **explore new approaches by designing and applying the GAN architecture.** Insights gained in this process are expected to significantly aid in future model performance improvements.
+- **Project Goal Setting**  
+The project's goal is to improve the color restoration capability for complex real-life images. __Focusing on capturing contours and color restoration__, the project aims to __explore new approaches by designing and applying the GAN architecture.__ Insights gained in this process are expected to significantly aid in future model performance improvements.
+
 
 
 ​
