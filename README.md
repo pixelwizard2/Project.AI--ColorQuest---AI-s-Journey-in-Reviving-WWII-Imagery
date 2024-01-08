@@ -13,6 +13,7 @@ _이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구
 The aim of this project was to restore color to black and white photographs using deep learning technology. Various model architectures such as **CNN, Deep CNN, Autoencoder, and U-Net** were explored, and the potential for image generation using **GAN (Generative Adversarial Networks)** was tested. <br> 
 
 
+
 <pre>
 <strong>※ Development Period:</strong> 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)
                        2024.01.07 ~ 2024.01.08 (20h)
@@ -42,6 +43,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​![2  조합도](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1ace4bf5-b944-4c78-935a-da7fa10ba421)
 <p style="text-align: center;">_Deep Learning Model's **'Network Structure Diagram'** Used in This Project_</p>
+<p style="text-align: center;">**_Deep Learning Model's 'Network Structure Diagram' Used in This Project_**</p>
 
 ​
 
