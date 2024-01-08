@@ -134,7 +134,8 @@ After shifting the training dataset from complex everyday photos to simpler geom
 
 ​![11  gan photo](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/6dfaa6f4-c17d-4fd5-896f-4b90a8ba481e)
 
-- **Result Analysis:** After training, the quality of images produced by the model was evaluated qualitatively. However, this evaluation revealed that **the model generated results falling short of expectations**. Early GAN training started with a balance of competition between the generator and discriminator, but over time, as the discriminator's performance improved, the generator's loss increased. As the training progressed into the long term, this disparity grew, leading to a stagnation in the generator's development and ultimately resulting in significantly lower quality of the generated images. This underscores the **importance of maintaining a balance in GAN's learning process** and suggests a **need for strategies to harmonize these two networks** in future learning directions.
+- **Result Analysis:** After training, the quality of images produced by the model was evaluated qualitatively. However, this evaluation revealed that **the model generated results falling short of expectations**. Early GAN training started with a balance of competition between the generator and discriminator, but over time, as the discriminator's performance improved, the generator's loss increased.  
+  As the training progressed into the long term, this disparity grew, leading to a stagnation in the generator's development and ultimately resulting in significantly lower quality of the generated images. This underscores the **importance of maintaining a balance in GAN's learning process** and suggests a **need for strategies to harmonize these two networks** in future learning directions.
 <br>  <br>
 
 
