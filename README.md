@@ -114,10 +114,11 @@ Comparing the validation loss results across models allowed for an assessment of
 ![7  4개 모델 재학습](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1eb020d3-a594-437f-96ae-4b93dc97f092)
 
 After shifting the training dataset from complex everyday photos to simpler geometric shapes, the models were retrained and re-evaluated. At this stage, **all four models showed substantial numerical improvements in training and validation losses**. Notably, the Deep CNN and U-Net models exhibited significant loss reductions and more stable validation accuracy results. This confirmed that **models optimize faster and perform better generalization when trained on less complex datasets**.
-<br> <br> <br>
-​
+<br>
+
 
 ​
+
 ## GAN Design and Experimentation (GAN 설계 및 실험)
 <br>
 ![9  생성자, 판별자](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/b066faab-8e1b-4426-a01f-4b5e5e9318ae)
