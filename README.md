@@ -60,11 +60,10 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 **Google Colab :** Accelerated model training and experimentation in a cloud-based development environment using T4-GPU acceleration.
 
-​
+​<br> <br> <br>
 
 ​
-
-Projected Course of the Project
+## Project expected direction (프로젝트 예상 진행방향)
 
 ​
 
