@@ -26,7 +26,7 @@ The aim of this project was to restore color to black and white photographs usin
 Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation. <br> <br>
 ![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)
 
-<br> <br>
+<br>
 
 ##  Utilized Model Architectures (사용된 모델 아키텍처)
 
