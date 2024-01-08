@@ -43,7 +43,6 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​![2  조합도](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1ace4bf5-b944-4c78-935a-da7fa10ba421)
 
-<p align="center"><strong>Deep Learning Model's 'Network Structure Diagram' Used in This Project</strong></p>
 <p align="center"><em><strong>Deep Learning Model's 'Network Structure Diagram' Used in This Project</strong></em></p>
 
 
@@ -53,7 +52,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 ​
 
-Technical Stack Details
+## Technical Stack Details (기술 스택 세부 사항)
 
 ​
 
