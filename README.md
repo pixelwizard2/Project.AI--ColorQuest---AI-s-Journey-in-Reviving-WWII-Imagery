@@ -109,7 +109,7 @@ This graph shows the results obtained from the first model training phase of the
  <br> <br>
  
 Comparing the validation loss results across models allowed for an assessment of their learning and generalization capabilities. While the U-Net model showed promise in the prototype for tasks like image segmentation, a review of the validation loss trends revealed that U-Net consistently maintained higher validation losses compared to other models. This indicates that the U-Net model might not be optimized for the current dataset and hyperparameter settings, highlighting the need for further training with a broader and more diverse dataset to improve results.
-<br> <br>
+<br> <br> <br>
 ​
 ![7  4개 모델 재학습](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1eb020d3-a594-437f-96ae-4b93dc97f092)
 
