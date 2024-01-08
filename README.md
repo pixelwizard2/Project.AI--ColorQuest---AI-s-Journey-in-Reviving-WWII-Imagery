@@ -8,8 +8,9 @@
 </p>
 
 ![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)  
+## Project Introduction (프로젝트 소개)
 
-## Project Focus: Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation
+Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation
 
 ​
 
