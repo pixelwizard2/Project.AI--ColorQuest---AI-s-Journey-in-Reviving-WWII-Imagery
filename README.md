@@ -125,49 +125,46 @@ After shifting the training dataset from complex everyday photos to simpler geom
 ![9  생성자, 판별자](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/b066faab-8e1b-4426-a01f-4b5e5e9318ae)
 
 - **GAN Configuration:** The GAN architecture was composed of two main networks: the **generator** and the **discriminator**. The generator was tasked with creating images from random noise, while the discriminator worked to distinguish between real and generated images.
-<br>  
+<br>  <br>  
 
 ​![10  gan](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/5941856e-e645-4c37-bd95-37a708db0ed6)
 
 - **Learning Process:** The model was trained over three sets of epochs, monitoring the losses of both the generator and the discriminator to gauge the model's learning progression. Loss functions were carefully selected to fulfill GAN's learning objectives.
-<br>
+<br>  <br>
 
 ​![11  gan photo](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/6dfaa6f4-c17d-4fd5-896f-4b90a8ba481e)
 
 - **Result Analysis:** After training, the quality of images produced by the model was evaluated qualitatively. However, this evaluation revealed that **the model generated results falling short of expectations**. Early GAN training started with a balance of competition between the generator and discriminator, but over time, as the discriminator's performance improved, the generator's loss increased. As the training progressed into the long term, this disparity grew, leading to a stagnation in the generator's development and ultimately resulting in significantly lower quality of the generated images. This underscores the **importance of maintaining a balance in GAN's learning process** and suggests a **need for strategies to harmonize these two networks** in future learning directions.
+<br>  <br>
+
 
 ​
 
-​
+## Conclusion and Reflections (결론 및 아쉬운 점)
 
-Conclusion and Reflections
+While the project demonstrated **the capability to design and experiment with GAN**, the final outcomes were not satisfactory in creating color images from complex real-life black and white photographs. Particularly, the quality assessment of generated images showed that the GAN model still requires improvement.
 
-​
-
-While the project demonstrated the capability to design and experiment with GAN, the final outcomes were not satisfactory in creating color images from complex real-life black and white photographs. Particularly, the quality assessment of generated images showed that the GAN model still requires improvement.
-
-​
+​![12  모델컷](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/ff290e3b-e881-4059-91e8-578f2dd21d53)
+<br>  <br>
 
 Moreover, the prototypes implemented early in the project successfully converted basic black and white images into color, but the four more complex models designed in this project did not show a significant improvement over the initial success. This indicates that the anticipated performance enhancements were not achieved with increased complexity, emphasizing the need to strike a proper balance between model complexity and efficiency. The fact that the models could not handle datasets as extensive as desired to produce impactful results remains a significant disappointment of the project.
+<br>  <br>
+
 
 ​
 
-​
+## Future Learning Directions (향후 학습 방향성)
 
-Future Learning Directions
+Future research will need to improve the quality and quantity of datasets. Additionally, adjusting the model architecture and learning parameters to achieve more refined color restoration outcomes will be explored. A deeper understanding of GAN, along with improving the quality of training data, will be crucial. **I am committed to successfully converting black and white photos into color with minimal datasets and model performance.**
+<br>  <br>
 
-​
-
-Future research will need to improve the quality and quantity of datasets. Additionally, adjusting the model architecture and learning parameters to achieve more refined color restoration outcomes will be explored. A deeper understanding of GAN, along with improving the quality of training data, will be crucial. We are committed to successfully converting black and white photos into color with minimal datasets and model performance.
 
 ​
 
-​
+## References (참고자료)
 
-References
+- **Python Official Documentation**
 
-Python Official Documentation
+- **Google Image Search Dataset**
 
-Google Image Search Dataset
-
-Official Documentation for TensorFlow and Keras
+- **Official Documentation for TensorFlow and Keras**
