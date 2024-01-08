@@ -147,7 +147,8 @@ While the project demonstrated **the capability to design and experiment with GA
 
 ​![12  모델컷](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/ff290e3b-e881-4059-91e8-578f2dd21d53)  
 <br>
-Moreover, the prototypes implemented early in the project successfully converted basic black and white images into color, but the four more complex models designed in this project did not show a significant improvement over the initial success. This indicates that the anticipated performance enhancements were not achieved with increased complexity, emphasizing the need to strike a proper balance between model complexity and efficiency. The fact that the models could not handle datasets as extensive as desired to produce impactful results remains a significant disappointment of the project.
+Moreover, the prototypes implemented early in the project successfully converted basic black and white images into color, but the four more complex models designed in this project did not show a significant improvement over the initial success.   
+<br>This indicates that the anticipated performance enhancements were not achieved with increased complexity, emphasizing the need to strike a proper balance between model complexity and efficiency. The fact that the models could not handle datasets as extensive as desired to produce impactful results remains a significant disappointment of the project.
 <br>  <br>
 
 
