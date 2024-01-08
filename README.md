@@ -48,11 +48,8 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 
 
 
-​
 
-​
-
-## Technical Stack Details (기술 스택 세부 사항)
+## Technical Stack Details (기술 스택 세부사항)
 
 ​
 
