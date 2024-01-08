@@ -4,7 +4,7 @@ _이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223315845279">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
-  </a> </p>  
+  </a> </p>
 ​![2  arts_colorization](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/c8b0ad64-3e85-426a-836e-b4349d1f3b8a)
 
 ## Project Introduction (프로젝트 소개)
