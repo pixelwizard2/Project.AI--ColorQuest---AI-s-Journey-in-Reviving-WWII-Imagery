@@ -88,8 +88,8 @@ The project's goal is to improve the color restoration capability for complex re
 In the initial stages of the project, a prototype model was created using a **Convolutional Neural Network(CNN)** and **U-Net architecture**, trained on a **simple geometric dataset**. These basic models successfully **recognized image contours and partially restored color**.
 
 ​
-
-(Left: CNN model / Right: U-Net model)
+![5  구모델 구현](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/2a45248c-3581-4daf-8284-7c7754e9ac8b)
+<p align="center"><em><strong>(Left: CNN model / Right: U-Net model)</strong></em></p>
 
 ​
 
