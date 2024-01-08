@@ -8,15 +8,17 @@
 </p>
 ​
 
+
+​![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)  
+
 ## Project Introduction (프로젝트 소개)
 
 The aim of this project was to restore color to black and white photographs using deep learning technology. Various model architectures such as **CNN, Deep CNN, Autoencoder, and U-Net** were explored, and the potential for image generation using GAN (Generative Adversarial Networks) was tested.
 
-**※ Development Period:** 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)  
+**※ Development Period:** 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)  <br>
                            2024.01.07 ~ 2024.01.08 (20h)
 
 
-​![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)  
 ## Project Details (프로젝트 세부 주제)
 
 Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation
