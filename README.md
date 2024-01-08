@@ -5,8 +5,7 @@ _이미지 색상화를 위한 AI 기술 - 딥 러닝 아키텍처 비교 연구
   <a href="https://blog.naver.com/pixelwizard/223315845279">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
-
-![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)
+​![2  arts_colorization](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/c8b0ad64-3e85-426a-836e-b4349d1f3b8a)
 
 ## Project Introduction (프로젝트 소개)
 
@@ -24,7 +23,7 @@ The aim of this project was to restore color to black and white photographs usin
 ## Project Details (프로젝트 세부 주제)
 
 Restoration of World War II Black and White Photographs_Attempts at Color Recovery through GAN Model Implementation. <br> <br>
-​![2  arts_colorization](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/c8b0ad64-3e85-426a-836e-b4349d1f3b8a)
+![1  nyd8rtque7oa1](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/a1b68d32-d63e-4318-9f2a-c559f6755f23)
 
 ##  Utilized Model Architectures (사용된 모델 아키텍처)
 
