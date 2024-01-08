@@ -15,12 +15,10 @@
 
 The aim of this project was to restore color to black and white photographs using deep learning technology. Various model architectures such as **CNN, Deep CNN, Autoencoder, and U-Net** were explored, and the potential for image generation using GAN (Generative Adversarial Networks) was tested.
 
-**※ Development Period:** 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)  
-                           2024.01.07 ~ 2024.01.08 (20h)
 
 <pre>
 <strong>※ Development Period:</strong> 2023.09.12 ~ 2023.09.14 (9.5h) (Prototype)
-                                        2024.01.07 ~ 2024.01.08 (20h)
+                      2024.01.07 ~ 2024.01.08 (20h)
 </pre>
 
 
