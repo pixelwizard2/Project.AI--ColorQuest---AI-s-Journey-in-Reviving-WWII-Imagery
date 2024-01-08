@@ -78,19 +78,12 @@ The project's goal is to improve the color restoration capability for complex re
 <br>
 
 
-- **Project Goal Setting**  
-The project's goal is to improve the color restoration capability for complex real-life images. **<font color="blue">Focusing on capturing contours and color restoration</font>**, the project aims to **explore new approaches by designing and applying the GAN architecture.** Insights gained in this process are expected to significantly aid in future model performance improvements.
-
-
-
-
 ​
 
-Project Progress
+## Project Progress (프로젝트 진행 과정)
 
-​
-
-Initial Prototype Results
+**Initial Prototype Results**
+![4  도형 데이터 수집](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/44e47461-3660-4b87-9dab-709d75ed3d0d)
 
 In the initial stages of the project, a prototype model was created using a Convolutional Neural Network (CNN) and U-Net architecture, trained on a simple geometric dataset. These basic models successfully recognized image contours and partially restored color.
 
