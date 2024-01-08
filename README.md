@@ -41,7 +41,7 @@ Restoration of World War II Black and White Photographs_Attempts at Color Recove
 - **GAN :** Constructed a structure where a generator and a discriminator learn through competition, leading to the generation of new images. <br> <br>
 
 ​![2  조합도](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/1ace4bf5-b944-4c78-935a-da7fa10ba421)
-**_Deep Learning Model's 'Network Structure Diagram' Used in This Project_**
+<p style="text-align: center;">_Deep Learning Model's **'Network Structure Diagram'** Used in This Project_</p>
 
 ​
 
