@@ -124,13 +124,13 @@ After shifting the training dataset from complex everyday photos to simpler geom
 
 ![9  생성자, 판별자](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/b066faab-8e1b-4426-a01f-4b5e5e9318ae)
 
-- **GAN Configuration:** The GAN architecture was composed of two main networks: the **generator** and the **discriminator**. The generator was tasked with creating images from random noise, while the discriminator worked to distinguish between real and generated images.
-<br>  <br>    <br>  
+- **GAN Configuration:** The GAN architecture was composed of two main networks: the **generator** and the **discriminator**. The generator was tasked with creating images from random noise, while the discriminator worked to distinguish between real and generated images.  
+<br>  <br> 
 
 ​![10  gan](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/5941856e-e645-4c37-bd95-37a708db0ed6)
 
-- **Learning Process:** The model was trained over three sets of epochs, monitoring the losses of both the generator and the discriminator to gauge the model's learning progression. Loss functions were carefully selected to fulfill GAN's learning objectives.
-<br>  <br>  <br>  
+- **Learning Process:** The model was trained over three sets of epochs, monitoring the losses of both the generator and the discriminator to gauge the model's learning progression. Loss functions were carefully selected to fulfill GAN's learning objectives.  
+<br>  <br>  
 
 ​![11  gan photo](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/6dfaa6f4-c17d-4fd5-896f-4b90a8ba481e)
 
@@ -144,8 +144,8 @@ After shifting the training dataset from complex everyday photos to simpler geom
 
 While the project demonstrated **the capability to design and experiment with GAN**, the final outcomes were not satisfactory in creating color images from complex real-life black and white photographs. Particularly, the quality assessment of generated images showed that the GAN model still requires improvement.
 
-​![12  모델컷](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/ff290e3b-e881-4059-91e8-578f2dd21d53)
-<br>  <br>
+​![12  모델컷](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/ff290e3b-e881-4059-91e8-578f2dd21d53)  
+<br>  
 Moreover, the prototypes implemented early in the project successfully converted basic black and white images into color, but the four more complex models designed in this project did not show a significant improvement over the initial success. This indicates that the anticipated performance enhancements were not achieved with increased complexity, emphasizing the need to strike a proper balance between model complexity and efficiency. The fact that the models could not handle datasets as extensive as desired to produce impactful results remains a significant disappointment of the project.
 <br>  <br>
 
