@@ -125,12 +125,12 @@ After shifting the training dataset from complex everyday photos to simpler geom
 ![9  생성자, 판별자](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/b066faab-8e1b-4426-a01f-4b5e5e9318ae)
 
 - **GAN Configuration:** The GAN architecture was composed of two main networks: the **generator** and the **discriminator**. The generator was tasked with creating images from random noise, while the discriminator worked to distinguish between real and generated images.
-<br>  <br>  
+<br>  <br>    <br>  
 
 ​![10  gan](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/5941856e-e645-4c37-bd95-37a708db0ed6)
 
 - **Learning Process:** The model was trained over three sets of epochs, monitoring the losses of both the generator and the discriminator to gauge the model's learning progression. Loss functions were carefully selected to fulfill GAN's learning objectives.
-<br>  <br>
+<br>  <br>  <br>  
 
 ​![11  gan photo](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/6dfaa6f4-c17d-4fd5-896f-4b90a8ba481e)
 
